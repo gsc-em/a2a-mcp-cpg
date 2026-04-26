@@ -33,10 +33,24 @@ AI agents — Claude, GPT, Gemini, Grok, Mistral — connect to `mcp.gsc-em.com`
 
 | Rail | Category | Status |
 |---|---|---|
-| `AIO-TFX-Rail` | Hygiene — TreeFree Diaper® (branded) | Live, 2 GTINs |
+| `AIO-TFX-Rail` | Hygiene — TreeFree Diaper® (Private Label) | Live, 2 GTINs |
 | `AIO-HPL-Rail` | Hygiene MDD Private Label | Live, open for converter onboarding |
 | `AIO-BPL-Rail` | Beauty Personal Care MDD Private Label | Live, open |
 | `AIO-BPC-Rail` | Beauty Personal Care Branded | Live, open |
+
+---
+
+## Live GTINs
+
+**AIO-TFX-Rail · TreeFree Diaper® (Private Label, single-product)**
+
+| GTIN | Format | SGS Certificate | EUDR | ACM Signal |
+|---|---|---|---|---|
+| `00990832300006` | Open / Tape, 240 Each | SGS 52583 | Deforestation-Free (0% tree fiber → NOT_APPLICABLE logic) | ACM-200 · ALLOW |
+| `00990832300013` | Pant / Pull-up, 240 Each | SGS 51912 | Deforestation-Free (0% tree fiber → NOT_APPLICABLE logic) | ACM-200 · ALLOW |
+
+Both made with **TreeFree Core®**.
+Compliance Stack: CSRD · EUDR · Loi AGEC · EU Taxonomy
 
 ---
 
